@@ -13,3 +13,8 @@ to delete a local non empty branch :
 ```bash 
 git branch -D branch_name
 ```
+
+how to list tags
+```bash 
+git tag
+```
